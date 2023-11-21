@@ -15,6 +15,7 @@
     "@types/node": "^16.18.63",
     "@types/react": "^18.2.38",
     "@types/react-dom": "^18.2.16",
+    "firebase": "^10.6.0",
     "moment": "^2.29.4",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
@@ -48,5 +49,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/firebase": "^3.2.1"
   }
 }
